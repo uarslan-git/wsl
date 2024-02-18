@@ -86,6 +86,7 @@ plugins=(
 	zsh-autosuggestions
 	zsh-history-substring-search
 	fzf-zsh-plugin
+	git-auto-fetch
 	)
 
 source $ZSH/oh-my-zsh.sh
