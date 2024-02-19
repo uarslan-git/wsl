@@ -14,6 +14,7 @@ plugins=(
 	zsh-autosuggestions
 	fzf-zsh-plugin
 	git-auto-fetch
+	zsh-nvm
 	)
 
 source $ZSH/oh-my-zsh.sh
